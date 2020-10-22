@@ -1,0 +1,14 @@
+{
+  "name": "develop_cv",
+  "version": "1.0.0",
+  "description": "Curriculum vitae",
+  "main": "CV.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Fernando González",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
